@@ -1,0 +1,14 @@
+/atr
+/atr.exe
+/dist/
+/coverage.out
+/coverage.html
+*.coverprofile
+*.pprof
+*.test
+/trace.out
+/cpu.prof
+/mem.prof
+/block.prof
+/mutex.prof
+/steefes/mom
